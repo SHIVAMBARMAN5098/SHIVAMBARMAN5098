@@ -28,6 +28,41 @@
 📊 **GitHub Stats**
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SHIVAMBARMAN5098&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+
+
+  ---
+
+## 📞 Contact Me
+
+- 📧 **Email**: shivambarman5098@gmail.com  
+- 📱 **Mobile**: +91-9098605645 
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/shivam-barman-827246299
+- 📍 **Location**: India  
+
+---
+
+## 💻 Technical Skills
+
+| Category             | Tools/Technologies                             |
+|----------------------|-------------------------------------------------|
+| **Programming**      | Java, JavaScript                                |
+| **Automation**       | Selenium WebDriver, Cypress                     |
+| **API Testing**      | Postman, REST Assured                           |
+| **Test Frameworks**  | TestNG, JUnit                                   |
+| **Build Tools**      | Maven                                            |
+| **CI/CD Tools**      | GitHub Actions, Jenkins (basic)                 |
+| **Version Control**  | Git, GitHub                                     |
+| **Bug Tracking**     | Jira                                            |
+| **Others**           | Manual Testing, Agile, SDLC/STLC, MySQL (basic) |
+
+---
+
+## 📂 Notable Projects
+
+- 🔹 [E-Commerce Automation with Selenium](https://github.com/SHIVAMBARMAN5098/Selenium_Project)
+- 🔹 [API Testing Collection - Postman](#)
+- 🔹 [Automation Framework - Cypress](#)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAMBARMAN5098&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
