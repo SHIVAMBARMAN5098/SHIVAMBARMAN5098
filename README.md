@@ -8,7 +8,7 @@
 - 💻 Working on Selenium, Cypress, and API Testing  
 - 📘 Learning advanced Java, Playwright, and DevOps basics  
 - 🤝 Open to QA collaborations and freelance testing  
-- 📫 Reach me at: **shivambarman5098@gmail.com**
+- 📫 Reach me at: **shivambarman2361@gmail.com**
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 📞 Contact Me
 
-- 📧 **Email**: shivambarman5098@gmail.com  
+- 📧 **Email**: shivambarman2361@gmail.com  
 - 📱 **Mobile**: +91-9098605645 
 - 🌐 **LinkedIn**: https://www.linkedin.com/in/shivam-barman-827246299
 - 📍 **Location**: India  
