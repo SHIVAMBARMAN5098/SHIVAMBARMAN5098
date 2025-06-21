@@ -53,7 +53,7 @@
 | **CI/CD Tools**      | GitHub Actions, Jenkins (basic)                 |
 | **Version Control**  | Git, GitHub                                     |
 | **Bug Tracking**     | Jira                                            |
-| **Others**           | Manual Testing, Agile, SDLC/STLC, MySQL (basic) |
+| **Others**           | Manual Testing, Agile, SDLC/STLC,               |
 
 ---
 
