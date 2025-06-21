@@ -53,18 +53,6 @@
 - 🤝 Collaborative project built as part of build-week  
 
 
-
-  ---
-
-## 📞 Contact Me
-
-- 📧 **Email**: shivambarman2361@gmail.com  
-- 📱 **Mobile**: +91-9098605645 
-- 🌐 **LinkedIn**: https://www.linkedin.com/in/shivam-barman-827246299
-- 📍 **Location**: India  
-
----
-
 ## 💻 Technical Skills
 
 | Category             | Tools/Technologies                             |
@@ -80,7 +68,14 @@
 | **Others**           | Manual Testing, Agile, SDLC/STLC,               |
 
 ---
+## 📞 Contact Me
 
+- 📧 **Email**: shivambarman2361@gmail.com  
+- 📱 **Mobile**: +91-9098605645 
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/shivam-barman-827246299
+- 📍 **Location**: India  
+
+---
 ## 📂 Notable Projects
 
 - 🔹 [E-Commerce Automation with Selenium](https://github.com/SHIVAMBARMAN5098/Selenium_Project)
