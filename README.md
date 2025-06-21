@@ -44,13 +44,16 @@
 
 ---
 
-### 🛒 Tutorials Ninja Clone - Frontend Build  
+### 🛠️ Tutorials Ninja - Manual Testing Project  
 🔗 [View Repository](https://github.com/SHIVAMBARMAN5098/Bulidweek-ProjectTutorials-ninja)
 
-- 💻 Built a responsive e-commerce clone using HTML, CSS, JavaScript  
-- 🧩 Features include homepage, product listing, add to cart  
-- 🌐 Hosted on GitHub Pages *(optional if live)*  
-- 🤝 Collaborative project built as part of build-week  
+- 📝 Performed detailed **manual testing** on Tutorials Ninja website  
+- 🔍 Covered core modules: Homepage, Login, Search, Cart, Checkout  
+- 🐞 Logged and tracked bugs in Excel/Google Sheets  
+- ✅ Created **test cases**, **test scenarios**, and **test summary report**  
+- 🔄 Executed multiple test cycles including **smoke**, **functional**, and **regression testing**  
+- 📋 Documented test results and shared feedback for UI & UX improvements  
+- 👥 Collaborative project with team during build week
 
 
 ## 💻 Technical Skills
