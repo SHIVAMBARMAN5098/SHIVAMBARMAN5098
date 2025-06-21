@@ -29,6 +29,30 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SHIVAMBARMAN5098&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
+  ---
+
+## 🧪 Projects
+
+### 💼 Selenium Automation Testing - E-Commerce Site  
+🔗 [View Repository](https://github.com/SHIVAMBARMAN5098/Selenium_Project)
+
+- ✅ Automated UI tests using Selenium WebDriver & Java  
+- ✅ Test execution handled via TestNG  
+- ✅ Used Page Object Model (POM) architecture  
+- ✅ Integrated with Maven for build management  
+- ✅ Performed cross-browser testing and created detailed reports  
+
+---
+
+### 🛒 Tutorials Ninja Clone - Frontend Build  
+🔗 [View Repository](https://github.com/SHIVAMBARMAN5098/Bulidweek-ProjectTutorials-ninja)
+
+- 💻 Built a responsive e-commerce clone using HTML, CSS, JavaScript  
+- 🧩 Features include homepage, product listing, add to cart  
+- 🌐 Hosted on GitHub Pages *(optional if live)*  
+- 🤝 Collaborative project built as part of build-week  
+
+
 
   ---
 
