@@ -70,9 +70,7 @@
 - Ensured **cross-browser compatibility** (Chrome, Firefox).
 - Performed **regression testing** after bug fixes.
 - Focused on user experience and UI feedback.
-- 
---
-
+  
 ## 💻 Technical Skills
 
 | Category             | Tools/Technologies                             |
