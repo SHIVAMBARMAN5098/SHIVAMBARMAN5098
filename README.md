@@ -56,11 +56,9 @@
 - 👥 Collaborative project with team during build week
 - ----
 
-### 📌 1. JPP Compiler – Manual Testing Project
+### 🛠️ JPP Compiler – Manual Testing Project
+🔗 [View Repository – JPP Compiler](https://github.com/SHIVAMBARMAN5098/JPP-compiler-Project-.git)
 
-A compiler-based application tested manually to ensure its core functionalities work smoothly.
-
-#### ✅ Key Highlights:
 - Performed detailed **functional testing** on code input, compile, and error output modules.
 - Verified **GUI components** like buttons, text areas, and labels for proper layout and usability.
 - Created and executed:
@@ -72,10 +70,8 @@ A compiler-based application tested manually to ensure its core functionalities 
 - Ensured **cross-browser compatibility** (Chrome, Firefox).
 - Performed **regression testing** after bug fixes.
 - Focused on user experience and UI feedback.
-
-🔗 [Project Repository – JPP Compiler](https://github.com/SHIVAMBARMAN5098/JPP-compiler-Project-.git)
+- 
 --
-
 
 ## 💻 Technical Skills
 
